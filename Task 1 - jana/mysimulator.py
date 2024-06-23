@@ -4,6 +4,7 @@ import random
 import sqlite3
 import requests
 import time
+import operator
 import numpy as np
 from datetime import datetime
 import threading
